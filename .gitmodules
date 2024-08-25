@@ -1,0 +1,3 @@
+[submodule "projeto_api"]
+	path = projeto_api
+	url = https://github.com/victor-cunha/projeto_api.git
